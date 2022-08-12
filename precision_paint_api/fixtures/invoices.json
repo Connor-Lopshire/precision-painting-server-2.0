@@ -1,0 +1,1001 @@
+[{
+    "model": "precision_paint_api.invoice",
+    "pk": 1,
+    "fields": {
+      "work_order": 1,
+      "estimate_id": 1,
+      "date_completed": "2022-02-04",
+      "amount_owed": 4221.96,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 2,
+    "fields": {
+      "work_order": 2,
+      "estimate_id": 2,
+      "date_completed": "2022-05-19",
+      "amount_owed": 5563.31,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 3,
+    "fields": {
+      "work_order": 3,
+      "estimate_id": 3,
+      "date_completed": "2021-11-18",
+      "amount_owed": 1080.64,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 4,
+    "fields": {
+      "work_order": 4,
+      "estimate_id": 4,
+      "date_completed": "2022-08-05",
+      "amount_owed": 4843.7,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 5,
+    "fields": {
+      "work_order": 5,
+      "estimate_id": 5,
+      "date_completed": "2022-08-02",
+      "amount_owed": 8745.95,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 6,
+    "fields": {
+      "work_order": 6,
+      "estimate_id": 6,
+      "date_completed": "2022-07-08",
+      "amount_owed": 4801.77,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 7,
+    "fields": {
+      "work_order": 7,
+      "estimate_id": 7,
+      "date_completed": "2021-09-26",
+      "amount_owed": 4974.16,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 8,
+    "fields": {
+      "work_order": 8,
+      "estimate_id": 8,
+      "date_completed": "2021-11-25",
+      "amount_owed": 1848.57,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 9,
+    "fields": {
+      "work_order": 9,
+      "estimate_id": 9,
+      "date_completed": "2022-01-17",
+      "amount_owed": 5080.42,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 10,
+    "fields": {
+      "work_order": 10,
+      "estimate_id": 10,
+      "date_completed": "2022-01-20",
+      "amount_owed": 1499.76,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 11,
+    "fields": {
+      "work_order": 11,
+      "estimate_id": 11,
+      "date_completed": "2022-02-22",
+      "amount_owed": 7059.93,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 12,
+    "fields": {
+      "work_order": 12,
+      "estimate_id": 12,
+      "date_completed": "2022-05-07",
+      "amount_owed": 1148.9,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 13,
+    "fields": {
+      "work_order": 13,
+      "estimate_id": 13,
+      "date_completed": "2021-10-23",
+      "amount_owed": 7330.21,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 14,
+    "fields": {
+      "work_order": 14,
+      "estimate_id": 14,
+      "date_completed": "2022-10-08",
+      "amount_owed": 2523.34,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 15,
+    "fields": {
+      "work_order": 15,
+      "estimate_id": 15,
+      "date_completed": "2022-06-18",
+      "amount_owed": 3660.17,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 16,
+    "fields": {
+      "work_order": 16,
+      "estimate_id": 16,
+      "date_completed": "2022-09-11",
+      "amount_owed": 9351.15,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 17,
+    "fields": {
+      "work_order": 17,
+      "estimate_id": 17,
+      "date_completed": "2021-07-28",
+      "amount_owed": 7625.49,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 18,
+    "fields": {
+      "work_order": 18,
+      "estimate_id": 18,
+      "date_completed": "2022-02-06",
+      "amount_owed": 8560.94,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 19,
+    "fields": {
+      "work_order": 19,
+      "estimate_id": 19,
+      "date_completed": "2021-09-02",
+      "amount_owed": 8985.1,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 20,
+    "fields": {
+      "work_order": 20,
+      "estimate_id": 20,
+      "date_completed": "2022-09-14",
+      "amount_owed": 3005.59,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 21,
+    "fields": {
+      "work_order": 21,
+      "estimate_id": 21,
+      "date_completed": "2022-08-12",
+      "amount_owed": 2072.69,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 22,
+    "fields": {
+      "work_order": 22,
+      "estimate_id": 22,
+      "date_completed": "2022-01-09",
+      "amount_owed": 9791.67,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 23,
+    "fields": {
+      "work_order": 23,
+      "estimate_id": 23,
+      "date_completed": "2021-10-24",
+      "amount_owed": 8661.72,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 24,
+    "fields": {
+      "work_order": 24,
+      "estimate_id": 24,
+      "date_completed": "2022-04-17",
+      "amount_owed": 3174.68,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 25,
+    "fields": {
+      "work_order": 25,
+      "estimate_id": 25,
+      "date_completed": "2021-08-23",
+      "amount_owed": 4036.25,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 26,
+    "fields": {
+      "work_order": 26,
+      "estimate_id": 26,
+      "date_completed": "2022-04-18",
+      "amount_owed": 1686.4,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 27,
+    "fields": {
+      "work_order": 27,
+      "estimate_id": 27,
+      "date_completed": "2021-10-18",
+      "amount_owed": 2881.0,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 28,
+    "fields": {
+      "work_order": 28,
+      "estimate_id": 28,
+      "date_completed": "2021-06-22",
+      "amount_owed": 8536.75,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 29,
+    "fields": {
+      "work_order": 29,
+      "estimate_id": 29,
+      "date_completed": "2021-12-09",
+      "amount_owed": 5582.71,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 30,
+    "fields": {
+      "work_order": 30,
+      "estimate_id": 30,
+      "date_completed": "2022-08-06",
+      "amount_owed": 3459.08,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 31,
+    "fields": {
+      "work_order": 31,
+      "estimate_id": 31,
+      "date_completed": "2022-05-14",
+      "amount_owed": 2533.1,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 32,
+    "fields": {
+      "work_order": 32,
+      "estimate_id": 32,
+      "date_completed": "2022-03-26",
+      "amount_owed": 2324.83,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 33,
+    "fields": {
+      "work_order": 33,
+      "estimate_id": 33,
+      "date_completed": "2022-11-15",
+      "amount_owed": 8368.8,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 34,
+    "fields": {
+      "work_order": 34,
+      "estimate_id": 34,
+      "date_completed": "2022-01-15",
+      "amount_owed": 9789.12,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 35,
+    "fields": {
+      "work_order": 35,
+      "estimate_id": 35,
+      "date_completed": "2021-09-17",
+      "amount_owed": 3270.32,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 36,
+    "fields": {
+      "work_order": 36,
+      "estimate_id": 36,
+      "date_completed": "2021-10-13",
+      "amount_owed": 5884.85,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 37,
+    "fields": {
+      "work_order": 37,
+      "estimate_id": 37,
+      "date_completed": "2022-10-19",
+      "amount_owed": 6202.93,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 38,
+    "fields": {
+      "work_order": 38,
+      "estimate_id": 38,
+      "date_completed": "2022-07-18",
+      "amount_owed": 5357.9,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 39,
+    "fields": {
+      "work_order": 39,
+      "estimate_id": 39,
+      "date_completed": "2022-06-09",
+      "amount_owed": 1556.4,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 40,
+    "fields": {
+      "work_order": 40,
+      "estimate_id": 40,
+      "date_completed": "2022-01-02",
+      "amount_owed": 5168.93,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 41,
+    "fields": {
+      "work_order": 41,
+      "estimate_id": 41,
+      "date_completed": "2022-01-29",
+      "amount_owed": 4961.22,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 42,
+    "fields": {
+      "work_order": 42,
+      "estimate_id": 42,
+      "date_completed": "2021-07-03",
+      "amount_owed": 5068.56,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 43,
+    "fields": {
+      "work_order": 43,
+      "estimate_id": 43,
+      "date_completed": "2022-04-01",
+      "amount_owed": 1726.94,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 44,
+    "fields": {
+      "work_order": 44,
+      "estimate_id": 44,
+      "date_completed": "2022-08-01",
+      "amount_owed": 2199.69,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 45,
+    "fields": {
+      "work_order": 45,
+      "estimate_id": 45,
+      "date_completed": "2022-10-17",
+      "amount_owed": 9301.46,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 46,
+    "fields": {
+      "work_order": 46,
+      "estimate_id": 46,
+      "date_completed": "2021-12-02",
+      "amount_owed": 1924.64,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 47,
+    "fields": {
+      "work_order": 47,
+      "estimate_id": 47,
+      "date_completed": "2021-12-10",
+      "amount_owed": 3235.05,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 48,
+    "fields": {
+      "work_order": 48,
+      "estimate_id": 48,
+      "date_completed": "2021-12-12",
+      "amount_owed": 3178.55,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 49,
+    "fields": {
+      "work_order": 49,
+      "estimate_id": 49,
+      "date_completed": "2022-11-13",
+      "amount_owed": 9627.29,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 50,
+    "fields": {
+      "work_order": 50,
+      "estimate_id": 50,
+      "date_completed": "2022-01-14",
+      "amount_owed": 9830.83,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 51,
+    "fields": {
+      "work_order": 51,
+      "estimate_id": 51,
+      "date_completed": "2022-02-25",
+      "amount_owed": 5780.13,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 52,
+    "fields": {
+      "work_order": 52,
+      "estimate_id": 52,
+      "date_completed": "2022-05-22",
+      "amount_owed": 5922.19,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 53,
+    "fields": {
+      "work_order": 53,
+      "estimate_id": 53,
+      "date_completed": "2021-09-04",
+      "amount_owed": 5530.09,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 54,
+    "fields": {
+      "work_order": 54,
+      "estimate_id": 54,
+      "date_completed": "2021-12-19",
+      "amount_owed": 6204.68,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 55,
+    "fields": {
+      "work_order": 55,
+      "estimate_id": 55,
+      "date_completed": "2022-04-27",
+      "amount_owed": 3242.06,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 56,
+    "fields": {
+      "work_order": 56,
+      "estimate_id": 56,
+      "date_completed": "2021-09-23",
+      "amount_owed": 4236.43,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 57,
+    "fields": {
+      "work_order": 57,
+      "estimate_id": 57,
+      "date_completed": "2021-08-03",
+      "amount_owed": 5327.81,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 58,
+    "fields": {
+      "work_order": 58,
+      "estimate_id": 58,
+      "date_completed": "2021-08-15",
+      "amount_owed": 5113.15,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 59,
+    "fields": {
+      "work_order": 59,
+      "estimate_id": 59,
+      "date_completed": "2022-04-24",
+      "amount_owed": 1454.68,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 60,
+    "fields": {
+      "work_order": 60,
+      "estimate_id": 60,
+      "date_completed": "2022-01-12",
+      "amount_owed": 7273.75,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 61,
+    "fields": {
+      "work_order": 61,
+      "estimate_id": 61,
+      "date_completed": "2022-08-24",
+      "amount_owed": 7430.66,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 62,
+    "fields": {
+      "work_order": 62,
+      "estimate_id": 62,
+      "date_completed": "2022-03-31",
+      "amount_owed": 3924.51,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 63,
+    "fields": {
+      "work_order": 63,
+      "estimate_id": 63,
+      "date_completed": "2022-10-03",
+      "amount_owed": 7254.71,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 64,
+    "fields": {
+      "work_order": 64,
+      "estimate_id": 64,
+      "date_completed": "2021-09-30",
+      "amount_owed": 9750.15,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 65,
+    "fields": {
+      "work_order": 65,
+      "estimate_id": 65,
+      "date_completed": "2022-07-09",
+      "amount_owed": 5619.59,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 66,
+    "fields": {
+      "work_order": 66,
+      "estimate_id": 66,
+      "date_completed": "2022-07-28",
+      "amount_owed": 4059.38,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 67,
+    "fields": {
+      "work_order": 67,
+      "estimate_id": 67,
+      "date_completed": "2022-03-14",
+      "amount_owed": 4902.74,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 68,
+    "fields": {
+      "work_order": 68,
+      "estimate_id": 68,
+      "date_completed": "2022-11-09",
+      "amount_owed": 9841.99,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 69,
+    "fields": {
+      "work_order": 69,
+      "estimate_id": 69,
+      "date_completed": "2021-10-21",
+      "amount_owed": 1755.69,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 70,
+    "fields": {
+      "work_order": 70,
+      "estimate_id": 70,
+      "date_completed": "2022-07-23",
+      "amount_owed": 3306.58,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 71,
+    "fields": {
+      "work_order": 71,
+      "estimate_id": 71,
+      "date_completed": "2022-11-24",
+      "amount_owed": 8744.74,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 72,
+    "fields": {
+      "work_order": 72,
+      "estimate_id": 72,
+      "date_completed": "2021-08-02",
+      "amount_owed": 5804.1,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 73,
+    "fields": {
+      "work_order": 73,
+      "estimate_id": 73,
+      "date_completed": "2021-06-14",
+      "amount_owed": 5513.52,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 74,
+    "fields": {
+      "work_order": 74,
+      "estimate_id": 74,
+      "date_completed": "2022-11-09",
+      "amount_owed": 4299.72,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 75,
+    "fields": {
+      "work_order": 75,
+      "estimate_id": 75,
+      "date_completed": "2022-07-24",
+      "amount_owed": 8516.5,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 76,
+    "fields": {
+      "work_order": 76,
+      "estimate_id": 76,
+      "date_completed": "2022-06-28",
+      "amount_owed": 4642.99,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 77,
+    "fields": {
+      "work_order": 77,
+      "estimate_id": 77,
+      "date_completed": "2022-10-08",
+      "amount_owed": 5684.88,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 78,
+    "fields": {
+      "work_order": 78,
+      "estimate_id": 78,
+      "date_completed": "2022-09-27",
+      "amount_owed": 7396.1,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 79,
+    "fields": {
+      "work_order": 79,
+      "estimate_id": 79,
+      "date_completed": "2021-11-24",
+      "amount_owed": 3484.53,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 80,
+    "fields": {
+      "work_order": 80,
+      "estimate_id": 80,
+      "date_completed": "2022-07-17",
+      "amount_owed": 4629.83,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 81,
+    "fields": {
+      "work_order": 81,
+      "estimate_id": 81,
+      "date_completed": "2022-07-11",
+      "amount_owed": 1992.7,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 82,
+    "fields": {
+      "work_order": 82,
+      "estimate_id": 82,
+      "date_completed": "2022-11-21",
+      "amount_owed": 3203.8,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 83,
+    "fields": {
+      "work_order": 83,
+      "estimate_id": 83,
+      "date_completed": "2021-07-19",
+      "amount_owed": 5496.45,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 84,
+    "fields": {
+      "work_order": 84,
+      "estimate_id": 84,
+      "date_completed": "2022-04-09",
+      "amount_owed": 1679.3,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 85,
+    "fields": {
+      "work_order": 85,
+      "estimate_id": 85,
+      "date_completed": "2021-08-31",
+      "amount_owed": 5100.82,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 86,
+    "fields": {
+      "work_order": 86,
+      "estimate_id": 86,
+      "date_completed": "2022-05-22",
+      "amount_owed": 7442.14,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 87,
+    "fields": {
+      "work_order": 87,
+      "estimate_id": 87,
+      "date_completed": "2022-09-11",
+      "amount_owed": 5304.53,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 88,
+    "fields": {
+      "work_order": 88,
+      "estimate_id": 88,
+      "date_completed": "2022-11-23",
+      "amount_owed": 6105.66,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 89,
+    "fields": {
+      "work_order": 89,
+      "estimate_id": 89,
+      "date_completed": "2022-04-19",
+      "amount_owed": 6712.85,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 90,
+    "fields": {
+      "work_order": 90,
+      "estimate_id": 90,
+      "date_completed": "2022-03-16",
+      "amount_owed": 3791.9,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 91,
+    "fields": {
+      "work_order": 91,
+      "estimate_id": 91,
+      "date_completed": "2022-06-26",
+      "amount_owed": 6450.94,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 92,
+    "fields": {
+      "work_order": 92,
+      "estimate_id": 92,
+      "date_completed": "2022-01-28",
+      "amount_owed": 1813.4,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 93,
+    "fields": {
+      "work_order": 93,
+      "estimate_id": 93,
+      "date_completed": "2021-10-25",
+      "amount_owed": 4301.63,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 94,
+    "fields": {
+      "work_order": 94,
+      "estimate_id": 94,
+      "date_completed": "2021-10-10",
+      "amount_owed": 1165.61,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 95,
+    "fields": {
+      "work_order": 95,
+      "estimate_id": 95,
+      "date_completed": "2022-07-20",
+      "amount_owed": 1005.01,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 96,
+    "fields": {
+      "work_order": 96,
+      "estimate_id": 96,
+      "date_completed": "2021-10-31",
+      "amount_owed": 5923.35,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 97,
+    "fields": {
+      "work_order": 97,
+      "estimate_id": 97,
+      "date_completed": "2022-01-22",
+      "amount_owed": 4037.71,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 98,
+    "fields": {
+      "work_order": 98,
+      "estimate_id": 98,
+      "date_completed": "2022-04-16",
+      "amount_owed": 9043.47,
+      "completed": true
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 99,
+    "fields": {
+      "work_order": 99,
+      "estimate_id": 99,
+      "date_completed": "2021-06-26",
+      "amount_owed": 9043.21,
+      "completed": false
+    }
+  }, {
+    "model": "precision_paint_api.invoice",
+    "pk": 100,
+    "fields": {
+      "work_order": 100,
+      "estimate_id": 100,
+      "date_completed": "2022-10-14",
+      "amount_owed": 5187.96,
+      "completed": true
+    }
+  }]
